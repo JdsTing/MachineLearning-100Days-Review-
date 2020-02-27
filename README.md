@@ -52,19 +52,19 @@ My noted for Machine-Learning-100-Days
 - 4-4深度神經網路及多層感知(Multi-layer Perception, MLP)	123
 - - 執行程序藍圖與體驗	125
 - - 4-4.1 步驟一：選擇模型	128
-- - 4-4.1.1 序列模型搭建網路(Keras Sequential API)	128
-- - 4-4.1.2 函數式模型搭建網路(Functional API (or Model))	129
-- - 4-4.1.3多層感知(Multi-layer Perception, MLP)	131
+-  - 4-4.1.1 序列模型搭建網路(Keras Sequential API)	128
+-  - 4-4.1.2 函數式模型搭建網路(Functional API (or Model))	129
+-  - 4-4.1.3多層感知(Multi-layer Perception, MLP)	131
 - - 4-4.2 步驟二：建構網路層	132
-- - 4-4.2.1 激活函數(Activation Function)	132
-- - 4-4.2.2 正規化(Regularization)	134
+-  - 4-4.2.1 激活函數(Activation Function)	132
+-  - 4-4.2.2 正規化(Regularization)	134
 - - 4-4.3 步驟三：編譯	136
-- - 4-4.3.1 損失函數(Loss Function)	136
-- - 4-4.3.2 優化(Opimizer)	139
-- - 4-4.3.3 梯度調整(Gradient Descent)：優化器的參數調整	143
+-  - 4-4.3.1 損失函數(Loss Function)	136
+-  - 4-4.3.2 優化(Opimizer)	139
+-  - 4-4.3.3 梯度調整(Gradient Descent)：優化器的參數調整	143
 - - 4-4.4 訓練、預測模型範例	149
-- - 4-4.4.1 Optimizers & Learning rates (D080練習)	149
-- - 4-4.4.2正規化(D084練習)	152
+-  - 4-4.4.1 Optimizers & Learning rates (D080練習)	149
+-  - 4-4.4.2 正規化(D084練習)	152
 - - 4-4.4.3 callbacks 函數	154
 - 4-5傳統電腦視覺提取特徵的方法：color histogram 及HOG 特徵	157
 - 4-6卷積神經網路Convolution Neural Network_CNN	158
@@ -79,9 +79,9 @@ My noted for Machine-Learning-100-Days
 - - 隨堂小考	164
 - 4-7 Keras 中的 CNN layers -- Conv2D	165
 - 4-8 遷移學習(Transfer Learning) -- ResNet	166
-- - 4-8 Kaggle資料實戰練習 --花朵辨識	168
--- 範例解答 - 方法一 (ImageDataGenerator)	169
--- 範例解答 - 方法二 (ImageDataGenerator +ResNet50)	173
+- 4-9 Kaggle資料實戰練習 --花朵辨識	168
+- - 範例解答 - 方法一 (ImageDataGenerator)	169
+- - 範例解答 - 方法二 (ImageDataGenerator +ResNet50)	173
 ### 附錄 網路學習資源	177
 
 
