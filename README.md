@@ -5,19 +5,19 @@ My noted for Machine-Learning-100-Days
 ## 目錄
 程式目錄	IV
 ### 第一章 Python 安裝及快速入門	1
--- 1-1 Python 安裝	1
--- 1-2 Python 快速入門	1
+- - 1-1 Python 安裝	1
+- - 1-2 Python 快速入門	1
 ### 第二章 資料匯入、預視及Pandas	6
--- 2-1  Pandas DataFrame	6
--- 2-2  Pandas 建立/讀取資料	7
--- 2-2.1利用pd.DataFrame函式創立dataframe	7
--- 2-2.2使用Pandas 匯入資料	7
--- 2-3  預視資料 及 繪圖	8
--- DataFrame -- Pandas	8
--- 2-3.1連續型變數 預視 (含基礎迴圈for)	10
--- 2-3.2類別型變數 預視 (含基礎聚集def)	12
--- 2-3.3資料分組 預視	14
--- 2-4  多個資料合併 merge / transform	20
+- - 2-1  Pandas DataFrame	6
+- - 2-2  Pandas 建立/讀取資料	7
+- - 2-2.1利用pd.DataFrame函式創立dataframe	7
+- - 2-2.2使用Pandas 匯入資料	7
+- - 2-3  預視資料 及 繪圖	8
+- - DataFrame -- Pandas	8
+- - 2-3.1連續型變數 預視 (含基礎迴圈for)	10
+- - 2-3.2類別型變數 預視 (含基礎聚集def)	12
+- - 2-3.3資料分組 預視	14
+- - 2-4  多個資料合併 merge / transform	20
 ### 第三章 格式化資料 【資料預視、預處理及 Sklearn】	22
 -- 3-1  建立/讀取資料補充- Copy	28
 -- 3-2  特徵工程範例	29
